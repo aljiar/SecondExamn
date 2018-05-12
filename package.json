@@ -1,0 +1,22 @@
+{
+  "name": "secondexamn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljiar/SecondExamn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aljiar/SecondExamn/issues"
+  },
+  "homepage": "https://github.com/aljiar/SecondExamn#readme",
+  "dependencies": {
+    "grunt": "^1.0.2"
+  }
+}
